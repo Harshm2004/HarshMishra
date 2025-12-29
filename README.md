@@ -1,4 +1,4 @@
-# Portfolio (Next.js + Tailwind) - Gautam Kumawat (Template)
+# Portfolio (Next.js + Tailwind) - Harsh Mishra (Template)
 
 This is a Next.js (app router) + TailwindCSS portfolio template pre-filled with data from your resume.
 
